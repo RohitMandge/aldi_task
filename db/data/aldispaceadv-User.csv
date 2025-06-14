@@ -1,0 +1,11 @@
+ID,username,password,planet,roles
+11111111-1111-1111-1111-111111111111,rohit,rohit123,Mars,authenticated-user
+22222222-2222-2222-2222-222222222222,zor,zor123,Venus,authenticated-user
+33333333-3333-3333-3333-333333333333,lira,lira123,Jupiter,authenticated-user
+44444444-4444-4444-4444-444444444444,talon,talon123,Saturn,authenticated-user
+55555555-5555-5555-5555-555555555555,cora,cora123,Mercury,authenticated-user
+66666666-6666-6666-6666-666666666666,rex,rex123,Neptune,authenticated-user
+77777777-7777-7777-7777-777777777777,vega,vega123,Uranus,authenticated-user
+88888888-8888-8888-8888-888888888888,jax,jax123,Mars,authenticated-user
+99999999-9999-9999-9999-999999999999,nyx,nyx123,Venus,authenticated-user
+aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,zane,zane123,Jupiter,authenticated-user

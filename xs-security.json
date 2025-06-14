@@ -1,0 +1,32 @@
+{
+    "xsappname": "aldispaceadv",
+    "tenant-mode": "dedicated",
+    "scopes": [
+      {
+        "name": "$XSAPPNAME.Read",
+        "description": "Read access to the application"
+      },
+      {
+        "name": "$XSAPPNAME.Write",
+        "description": "Write access to the application"
+      }
+    ],
+    "roles": [
+      {
+        "name": "Viewer",
+        "description": "Read-only access",
+        "scope-references": [
+          "$XSAPPNAME.Read"
+        ]
+      },
+      {
+        "name": "Editor",
+        "description": "Read and write access",
+        "scope-references": [
+          "$XSAPPNAME.Read",
+          "$XSAPPNAME.Write"
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,11 @@
+ID,name,stardustCollection,wormholeNavigationSkill,originPlanet,spacesuitColor,department_ID,position_ID,createdAt,createdBy
+123e4567,Rohit Mandge,150,85,Mars,Red,111111111,aaaaaaa1,2025-06-13T12:00:00Z,admin
+223e4568,Zor Talon,200,90,Venus,Blue,222222222,bbbbbbb2,2025-06-13T12:00:00Z,admin
+323e4569,Lira Voss,180,88,Jupiter,White,111111111,aaaaaaa1,2025-06-14T08:30:00Z,admin
+423e4570,Talon Kyre,120,75,Saturn,Black,222222222,bbbbbbb2,2025-06-14T09:00:00Z,admin
+523e4571,Cora Zen,210,92,Mercury,Silver,111111111,aaaaaaa1,2025-06-14T10:00:00Z,admin
+623e4572,Rex Sol,130,80,Neptune,Green,222222222,bbbbbbb2,2025-06-14T11:15:00Z,admin
+723e4573,Vega Lynx,160,87,Uranus,Orange,111111111,aaaaaaa1,2025-06-14T12:45:00Z,admin
+823e4574,Jax Orion,190,89,Mars,Blue,222222222,bbbbbbb2,2025-06-14T13:30:00Z,admin
+923e4575,Nyx Vega,170,83,Venus,Purple,111111111,aaaaaaa1,2025-06-14T14:00:00Z,admin
+a23e4576,Zane Vox,140,78,Jupiter,Yellow,222222222,bbbbbbb2,2025-06-14T15:00:00Z,admin
