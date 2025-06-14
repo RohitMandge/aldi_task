@@ -2,7 +2,6 @@ using {aldispaceadv as my} from '../db/data-model';
 
 service SpacefarerService {
 
-  // @requires: 'authenticated-user'
   @odata.draft.enabled
   entity GalacticSpacefarer      as projection on my.GalacticSpacefarer;
 
